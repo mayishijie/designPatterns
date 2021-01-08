@@ -1,4 +1,4 @@
-package singleton;
+package com.mayishijie.singleton;
 
 /**
  * 饱汉式
